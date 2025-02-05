@@ -1,0 +1,4 @@
+user enters username
+user enters password
+user clicks submit
+user creates account
